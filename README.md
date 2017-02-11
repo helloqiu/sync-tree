@@ -1,2 +1,5 @@
-# sync-tree
-Get synchronous directory tree
+# Sync Tree
+Get synchronous directory tree.  
+
+# License  
+MIT

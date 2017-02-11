@@ -1,0 +1,9 @@
+{
+  "name": "sync-tree",
+  "version": "0.0.1",
+  "description": "Get synchronous directory tree",
+  "main": "index.js",
+  "repository": "https://github.com/helloqiu/sync-tree",
+  "author": "helloqiu <helloqiu95@gmail.com>",
+  "license": "MIT"
+}
